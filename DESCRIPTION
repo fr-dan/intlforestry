@@ -1,0 +1,14 @@
+Package: intlforestry
+Title: Functions for FS Ch.9: Int'l Forestry
+Version: 0.0.0.9000
+Authors@R: 
+    person("Daniel", "Braby", , "daniel.braby@forestresearch.gov.uk",
+    role = c("aut", "cre"))
+Description: Reproducible functions and workflows for producing the statistics and text of FS Ch.9: Int'l Forestry.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
